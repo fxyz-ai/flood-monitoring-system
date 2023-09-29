@@ -1,6 +1,7 @@
 # flood-monitoring-system
 
 Introduction
+
 The Flood Monitoring System is a software application designed to monitor and analyze flood-related data to provide timely and accurate information about potential flooding events. This system helps authorities and individuals make informed decisions to mitigate the impact of floods on communities and infrastructure.
 
 Features
